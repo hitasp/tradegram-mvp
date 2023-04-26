@@ -285,3 +285,4 @@ yarn.lock
 /etc/elasticsearch/data/*
 /etc/grafana/storage/*
 /.tye/*
+*.ndb
