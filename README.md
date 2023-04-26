@@ -13,6 +13,7 @@
    - [ ] SaaS Service
    - [ ] Payment Service
    - [ ] Storage Service
+   - [ ] Messaging Service
    - [ ] CMS Service
    - [ ] CRM Service
    - [ ] e-Commerce Service
