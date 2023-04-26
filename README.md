@@ -34,6 +34,7 @@
      - [ ] File Management
      - [ ] Download Management
      - [ ] Document Management
+   - [ ] Messaging Service
    - [ ] CMS Service
    - [ ] CRM Service
      - [ ] Contacs manager
