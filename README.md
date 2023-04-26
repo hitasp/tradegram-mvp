@@ -3,44 +3,46 @@
 **Tradegram** is a SaaS platform for all the needs of small and mid-size companies in one place.
 
 ### Roadmap:
- - [ ] Preliminary research - *current stage* (WIP)
- - [ ] System architecture
- - [ ] Creating Deployment Scenarios
- - [ ] Creating empty Modules/Services/Apps projects with planned dependecies
-   - [ ] Infrastructure Modules
-   - [ ] Identity Service
-   - [ ] Administration Service
-   - [ ] SaaS Service
+ - [X] **Preliminary research**
+ - [X] **System architecture**
+ - [X] **Creating Deployment Scenarios**
+ - [X] **Creating empty Apps/**Services**/Modules projects with planned dependecies** - *current stage* 
+   - [X] Infrastructure Modules
+   - [X] Identity Service
+   - [X] Administration Service
+   - [X] SaaS Service
    - [ ] Payment Service
    - [ ] Storage Service
    - [ ] Messaging Service
-   - [ ] CMS Service
+   - [ ] CMS Service - **(WIP)**
    - [ ] CRM Service
    - [ ] e-Commerce Service
    - [ ] Real Estate Service
    - [ ] MLS Service
    - [ ] ERP 
    - [ ] *TODO*
- - [ ] Implementing	business logics (MVP)
+ - [ ] **Implementing	business logics (MVP)**
    - [ ] Infrastructure Modules
-     - [ ] Activity Logging
+     - [X] Activity Logging
      - [ ] GEO Directory
-     - [ ] UI Themes
-   - [ ] Identity Service
-   - [ ] Administration Service
-   - [ ] SaaS Service
+     - [X] UI Themes
+   - [X] Identity Service
+   - [X] Administration Service
+   - [X] SaaS Service
    - [ ] Payment Service
    - [ ] Storage Service
      - [ ] File Management
      - [ ] Download Management
      - [ ] Document Management
    - [ ] Messaging Service
-   - [ ] CMS Service
+   - [ ] CMS Service - **(WIP)**
    - [ ] CRM Service
      - [ ] Contacs manager
      - [ ] Customer Management
    - [ ] e-Commerce Service
      - [ ] Product Management
+     - [ ] Shopping Cart
+     - [ ] Product Comparison
      - [ ] Product Listing
    - [ ] Real Estate Service
      - [ ] Property Management
