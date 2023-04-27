@@ -6,15 +6,15 @@
  - [X] **Preliminary research**
  - [X] **System architecture**
  - [X] **Creating Deployment Scenarios**
- - [X] **Creating empty Apps/**Services**/Modules projects with planned dependecies** - *current stage* 
+ - [X] **Creating empty Apps/Services/Modules projects with planned dependecies** - *current stage* 
    - [X] Infrastructure Modules
    - [X] Identity Service
    - [X] Administration Service
    - [X] SaaS Service
    - [ ] Payment Service
-   - [ ] Storage Service
+   - [ ] Storage Service - **(WIP)**
    - [ ] Messaging Service
-   - [ ] CMS Service - **(WIP)**
+   - [X] CMS Service
    - [ ] CRM Service
    - [ ] e-Commerce Service
    - [ ] Real Estate Service
@@ -30,12 +30,12 @@
    - [X] Administration Service
    - [X] SaaS Service
    - [ ] Payment Service
-   - [ ] Storage Service
+   - [ ] Storage Service - **(WIP)**
      - [ ] File Management
      - [ ] Download Management
      - [ ] Document Management
    - [ ] Messaging Service
-   - [ ] CMS Service - **(WIP)**
+   - [X] CMS Service
    - [ ] CRM Service
      - [ ] Contacs manager
      - [ ] Customer Management
