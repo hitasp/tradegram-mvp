@@ -34,7 +34,9 @@
      - [X] File Management
      - [ ] Download Management
      - [ ] Document Management
-   - [ ] Messaging Service
+   - [X] Messaging Service
+     - [X] Chat Module
+     - [ ] Notify Module
    - [X] CMS Service
    - [ ] CRM Service
      - [ ] Contacs manager
